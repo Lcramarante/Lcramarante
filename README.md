@@ -1,5 +1,3 @@
-Copie e cole este código no seu README.md:
-
 <div align="center">
 
 <!-- BANNER REVISADO (Cor sólida estável) -->
