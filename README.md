@@ -1,7 +1,11 @@
+Copie e cole este código no seu README.md:
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=0:000000,100:1a0000&fontColor=ff0000&text=Leandro%20Amarante&fontSize=64&animation=fadeIn&fontAlignY=38&desc=Engenharia%20Inform%C3%A1tica%20%C2%B7%20Python%20%C2%B7%20Web&descAlignY=60&descSize=18&height=220" width="100%" />
+<!-- BANNER REVISADO (Cor sólida estável) -->
+<img src="https://capsule-render.vercel.app/render?type=waving&color=000000&fontColor=ff0000&text=Leandro%20Amarante&fontSize=64&animation=fadeIn&fontAlignY=38&desc=Engenharia%20Inform%C3%A1tica%20%C2%B7%20Python%20%C2%B7%20Web&descAlignY=60&descSize=18&height=220" width="100%" />
 
+<!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36A2EB&center=true&vCenter=true&width=520&lines=Estudante+de+Engenharia+Inform%C3%A1tica;Desenvolvedor+em+constru%C3%A7%C3%A3o;Apaixonado+por+tecnologia+e+inova%C3%A7%C3%A3o" alt="Typing SVG" />
 
 <br>
@@ -27,11 +31,10 @@ class Leandro:
     foco = ["Python", "Desenvolvimento Web"]
     a_aprender = ["Estruturas de dados", "Bases de dados", "Boas práticas de código"]
     filosofia = "Simples, limpo e funcional."
-```
 
 ---
 
-### 🛠️ Arsenal tecnológico
+🛠️ Arsenal tecnológico
 
 <div align="center">
 
@@ -49,18 +52,18 @@ class Leandro:
 
 ---
 
-### 🚀 Projetos em destaque
+🚀 Projetos em destaque
 
 <table align="center">
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/Lcramarante/-Simulador-de-Vida-Financeira-em-Python">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lcramarante&repo=-Simulador-de-Vida-Financeira-em-Python&theme=dark&show_owner=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=36a2eb&border_color=330000" width="400px" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lcramarante&repo=-Simulador-de-Vida-Financeira-em-Python&theme=dark&show_owner=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=36a2eb" width="400px" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/Lcramarante/Dasein-Clinic">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lcramarante&repo=Dasein-Clinic&theme=dark&show_owner=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=36a2eb&border_color=330000" width="400px" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lcramarante&repo=Dasein-Clinic&theme=dark&show_owner=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=36a2eb" width="400px" />
       </a>
     </td>
   </tr>
@@ -68,16 +71,17 @@ class Leandro:
 
 ---
 
-### 📊 Estatísticas
+📊 Estatísticas
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lcramarante&show_icons=true&theme=dark&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=36a2eb&hide_border=true" height="165px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lcramarante&layout=compact&theme=dark&bg_color=000000&title_color=ff0000&text_color=ffffff&hide_border=true" height="165px" />
+<!-- STATS REVISADO (Removido hide_border para testar estabilidade) -->
+<img src="https://github-readme-stats.vercel.app/api?username=Lcramarante&show_icons=true&theme=dark&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=36a2eb" height="165px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lcramarante&layout=compact&theme=dark&bg_color=000000&title_color=ff0000&text_color=ffffff" height="165px" />
 
-<img src="https://streak-stats.demolab.com?user=Lcramarante&theme=dark&background=000000&ring=ff0000&fire=36a2eb&currStreakNum=ffffff&currStreakLabel=ff0000&sideNums=ffffff&sideLabels=ffffff&dates=888888&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Lcramarante&theme=dark&background=000000&ring=ff0000&fire=36a2eb&currStreakNum=ffffff" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lcramarante&theme=github-dark&bg_color=000000&color=ff0000&line=36a2eb&point=ffffff&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lcramarante&theme=github-dark&bg_color=000000&color=ff0000&line=36a2eb" width="100%" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=Lcramarante&theme=darkhub&no-bg=true&no-frame=true&column=7" alt="Trophies" />
 
@@ -85,7 +89,7 @@ class Leandro:
 
 ---
 
-### 🐍 Contribution Snake
+🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Lcramarante/Lcramarante/output/github-contribution-grid-snake.svg" alt="Snake Game" />
@@ -93,7 +97,7 @@ class Leandro:
 
 ---
 
-### 📫 Vamos conversar?
+📫 Vamos conversar?
 
 <div align="center">
   <a href="https://instagram.com/lcr_amarante"><img src="https://img.shields.io/badge/Fala%20comigo-Instagram-ff0000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" /></a>
@@ -102,7 +106,7 @@ class Leandro:
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0:1a0000,100:000000&fontColor=ffffff&text=Obrigado%20por%20visitar%20o%20meu%20perfil!&fontSize=20&section=footer&height=100" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=000000&fontColor=ffffff&text=Obrigado%20por%20visitar%20o%20meu%20perfil!&fontSize=20&section=footer&height=100" width="100%" />
   <br>
   <small><code>Design minimalista retro &bull; 2026 &bull; Leandro Amarante</code></small>
 </div>
