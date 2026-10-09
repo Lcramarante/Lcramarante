@@ -1,5 +1,4 @@
 <div align="center">
-
 <!-- BANNER REVISADO (Cor sólida estável) -->
 <img src="https://capsule-render.vercel.app/render?type=waving&color=000000&fontColor=ff0000&text=Leandro%20Amarante&fontSize=64&animation=fadeIn&fontAlignY=38&desc=Engenharia%20Inform%C3%A1tica%20%C2%B7%20Python%20%C2%B7%20Web&descAlignY=60&descSize=18&height=220" width="100%" />
 
