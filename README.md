@@ -227,7 +227,7 @@ Estou aberto a trocar conhecimentos, discutir ideias, colaborar em projetos e ap
 
 <div align="center">
 
-<img src="https://capsule-api.vercel.app/render?type=waving&color=0:101828,100:000000&height=120&section=footer" width="100%" alt="Rodapé decorativo" />
+<img src="https://capsule-api.vercel.app/api?type=waving&color=0:101828,100:000000&height=120&section=footer" width="100%" alt="Rodapé decorativo" />
 
 **Obrigado por visitares o meu perfil!**
 
