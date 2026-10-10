@@ -1,4 +1,5 @@
- <div align="center">
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/render?type=waving&color=0:000000,100:101828&fontColor=ffffff&text=Leandro%20Amarante&fontSize=62&fontAlignY=38&desc=Engenharia%20Inform%C3%A1tica%20%7C%20Python%20%7C%20Web&descAlignY=60&descSize=18&height=230&animation=fadeIn" width="100%" alt="Leandro Amarante — Engenharia Informática, Python e Desenvolvimento Web" />
 
@@ -64,7 +65,7 @@ class LeandroAmarante:
 
 ### Bases de dados e ferramentas
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux" alt="MySQL, Git, GitHub, VS Code e Linux" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,linux" alt="MySQL, SQLite, Git, GitHub, VS Code e Linux" />
 
 ### Tecnologias em exploração
 
@@ -80,6 +81,9 @@ class LeandroAmarante:
 
 <div align="center">
 
+<a href="https://github.com/Lcramarante/UniBiblioteca">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lcramarante&repo=UniBiblioteca&theme=github_dark&bg_color=0D1117&title_color=36A2EB&icon_color=FF4D6D&border_color=30363D" alt="UniBiblioteca — Sistema de Gestão de Biblioteca" />
+</a>
 <a href="https://github.com/Lcramarante/-Simulador-de-Vida-Financeira-em-Python">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lcramarante&repo=-Simulador-de-Vida-Financeira-em-Python&theme=github_dark&bg_color=0D1117&title_color=36A2EB&icon_color=FF4D6D&border_color=30363D" alt="Simulador de Vida Financeira em Python" />
 </a>
@@ -89,21 +93,66 @@ class LeandroAmarante:
 
 </div>
 
+### 📚 UniBiblioteca — Sistema de Gestão de Biblioteca
+
+O **UniBiblioteca** é o meu projeto mais recente: uma aplicação web orientada à organização dos serviços de uma biblioteca académica.
+
+O objetivo é centralizar a consulta do catálogo e as principais operações de gestão, proporcionando uma experiência simples para leitores e funcionários.
+
+**Funcionalidades principais**
+
+- 🔎 Catálogo público para pesquisar livros por título, autor, ISBN e categoria.
+- 📖 Consulta da disponibilidade dos exemplares.
+- 👥 Gestão de leitores e contas com diferentes perfis de acesso.
+- 🔄 Registo e acompanhamento de empréstimos, devoluções e renovações.
+- 📅 Reservas de livros e controlo da disponibilidade.
+- 🧾 Gestão de multas, com possibilidade de organizar o pagamento presencial.
+- 🛡️ Controlo de permissões e registo de operações administrativas.
+
+**Tecnologias**
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+
+</div>
+
+<a href="https://github.com/Lcramarante/UniBiblioteca">📂 Explorar o UniBiblioteca no GitHub →</a>
+
+> Projeto em desenvolvimento. A utilização institucional requer validação de segurança, configuração do servidor e testes operacionais antes da utilização com dados reais.
+
+### 💰 Simulador de Vida Financeira em Python
+
+Projeto focado na aplicação da lógica de programação a cenários de gestão financeira pessoal.
+
+<a href="https://github.com/Lcramarante/-Simulador-de-Vida-Financeira-em-Python">📂 Ver projeto →</a>
+
+### 🏥 Dasein Clinic
+
+Projeto de aplicação orientada à área clínica, que integra conhecimentos de desenvolvimento de software e organização de informação.
+
+<a href="https://github.com/Lcramarante/Dasein-Clinic">📂 Ver projeto →</a>
+
 ### 📌 Outros projetos
 
 **Gestão de Incidentes — ETGDH**
 
-Sistema para registo e acompanhamento de incidentes informáticos, com organização de ocorrências, atribuição de tarefas e acompanhamento das reparações.
+Sistema para registo e acompanhamento de incidentes informáticos, organização de ocorrências, atribuição de tarefas e acompanhamento das reparações.
 
-**Tecnologias previstas/utilizadas no projeto:** PHP, MySQL, JavaScript, HTML e CSS.
+**Tecnologias:** PHP, MySQL, JavaScript, HTML e CSS.
 
 **BiblioDigital — ETGDH**
 
 Sistema de gestão de biblioteca escolar para consulta do catálogo, controlo de empréstimos e administração de livros e utilizadores.
 
-**Tecnologias previstas/utilizadas no projeto:** PHP, MySQL, JavaScript, HTML e CSS.
+**Tecnologias:** PHP, MySQL, JavaScript, HTML e CSS.
 
-> Os projetos escolares e os respetivos detalhes devem ser apresentados de acordo com a versão efetivamente desenvolvida. Adiciona links para os repositórios públicos quando estiverem disponíveis.
+> Os projetos escolares e os respetivos detalhes devem corresponder às versões efetivamente desenvolvidas. Adiciona os links dos respetivos repositórios públicos quando estiverem disponíveis.
 
 ---
 
@@ -147,12 +196,13 @@ Sistema de gestão de biblioteca escolar para consulta do catálogo, controlo de
 
 ## 🎯 Objetivos
 
-* [ ] Aprofundar os conhecimentos de Python e algoritmos.
-* [ ] Desenvolver aplicações web completas e responsivas.
-* [ ] Melhorar a gestão e a segurança de bases de dados.
-* [ ] Explorar programação segura e cibersegurança.
-* [ ] Construir um portefólio com projetos documentados.
-* [ ] Contribuir para projetos e colaborar com outros programadores.
+- [ ] Aprofundar os conhecimentos de Python e algoritmos.
+- [ ] Desenvolver aplicações web completas e responsivas.
+- [ ] Melhorar a gestão e a segurança de bases de dados.
+- [ ] Explorar programação segura e cibersegurança.
+- [ ] Melhorar a arquitetura e a qualidade dos projetos existentes.
+- [ ] Publicar documentação clara e testes para os meus projetos.
+- [ ] Colaborar com outros programadores e contribuir para projetos open source.
 
 ---
 
@@ -181,6 +231,6 @@ Estou aberto a trocar conhecimentos, discutir ideias, colaborar em projetos e ap
 
 <sub>Desenvolvido com curiosidade, dedicação e vontade de aprender.</sub>
 
-<sub>© 2026 Leandro Amarante</sub>
+<sub>© 2026 Leandro Amarante · Cabo Verde 🇨🇻</sub>
 
 </div>
