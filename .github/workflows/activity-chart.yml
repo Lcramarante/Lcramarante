@@ -1,0 +1,38 @@
+
+name: Update GitHub Activity Chart
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-chart:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate activity charts
+        uses: dturovskiy/deus-commit-chart@v1
+        with:
+          username: Lcramarante
+          token: ${{ secrets.GITHUB_TOKEN }}
+          default-days: "365"
+          ranges: "30,90,365"
+          layout: spacious
+          output-dir: activity-assets
+
+      - name: Commit generated charts
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add activity-assets
+          if ! git diff --cached --quiet; then
+            git commit -m "Update GitHub activity charts"
+            git push
+          fi
