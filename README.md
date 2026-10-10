@@ -190,8 +190,6 @@ Sistema de gestão de biblioteca escolar para consulta do catálogo, controlo de
 
 </div>
 
-> **Nota:** esta animação requer um workflow do GitHub Actions configurado para gerar e publicar o ficheiro SVG no branch `output`. Se ainda não estiver configurada, a imagem poderá não aparecer.
-
 ---
 
 ## 🎯 Objetivos
