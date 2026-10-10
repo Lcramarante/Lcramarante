@@ -174,11 +174,15 @@ Sistema de gestão de biblioteca escolar para consulta do catálogo, controlo de
 
 ## 📈 Atividade de desenvolvimento
 
-<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lcramarante&bg_color=0D1117&color=C9D1D9&line=36A2EB&point=FF4D6D&area=true&area_color=36A2EB&hide_border=true&custom_title=Atividade%20de%20Desenvolvimento" width="100%" alt="Gráfico de atividade no GitHub" />
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Lcramarante/Lcramarante/main/activity-assets/activity-365d.svg"
+    alt="Gráfico de atividade GitHub dos últimos 365 dias"
+    width="100%"
+  />
+</p>
 
-</div>
 
 ---
 
