@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=0:000000,100:101828&fontColor=ffffff&text=Leandro%20Amarante&fontSize=62&fontAlignY=38&desc=Engenharia%20Inform%C3%A1tica%20%7C%20Python%20%7C%20Web&descAlignY=60&descSize=18&height=230&animation=fadeIn" width="100%" alt="Leandro Amarante — Engenharia Informática, Python e Desenvolvimento Web" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:101828&fontColor=ffffff&text=Leandro%20Amarante&fontSize=62&fontAlignY=38&desc=Engenharia%20Inform%C3%A1tica%20%7C%20Python%20%7C%20Web&descAlignY=60&descSize=18&height=230&animation=fadeIn" width="100%" alt="Leandro Amarante — Engenharia Informática, Python e Desenvolvimento Web" />
 
 <a href="https://github.com/Lcramarante">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36A2EB&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+Inform%C3%A1tica;Desenvolvimento+Web+%26+Python;Transformando+ideias+em+projetos;Sempre+a+aprender%2C+sempre+a+construir" alt="Animação de apresentação" />
@@ -223,7 +223,7 @@ Estou aberto a trocar conhecimentos, discutir ideias, colaborar em projetos e ap
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=0:101828,100:000000&height=120&section=footer" width="100%" alt="Rodapé decorativo" />
+<img src="https://capsule-api.vercel.app/render?type=waving&color=0:101828,100:000000&height=120&section=footer" width="100%" alt="Rodapé decorativo" />
 
 **Obrigado por visitares o meu perfil!**
 
