@@ -84,6 +84,9 @@ class LeandroAmarante:
 <a href="https://github.com/Lcramarante/UniBiblioteca">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lcramarante&repo=UniBiblioteca&theme=github_dark&bg_color=0D1117&title_color=36A2EB&icon_color=FF4D6D&border_color=30363D" alt="UniBiblioteca — Sistema de Gestão de Biblioteca" />
 </a>
+<a href="https://github.com/Lcramarante/School-incident">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lcramarante&repo=School-incident&theme=github_dark&bg_color=0D1117&title_color=36A2EB&icon_color=FF4D6D&border_color=30363D" alt="School Incident — Sistema de Gestão de Incidentes" />
+</a>
 <a href="https://github.com/Lcramarante/-Simulador-de-Vida-Financeira-em-Python">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lcramarante&repo=-Simulador-de-Vida-Financeira-em-Python&theme=github_dark&bg_color=0D1117&title_color=36A2EB&icon_color=FF4D6D&border_color=30363D" alt="Simulador de Vida Financeira em Python" />
 </a>
@@ -95,18 +98,16 @@ class LeandroAmarante:
 
 ### 📚 UniBiblioteca — Sistema de Gestão de Biblioteca
 
-O **UniBiblioteca** é o meu projeto mais recente: uma aplicação web orientada à organização dos serviços de uma biblioteca académica.
-
-O objetivo é centralizar a consulta do catálogo e as principais operações de gestão, proporcionando uma experiência simples para leitores e funcionários.
+O **UniBiblioteca** é uma aplicação web orientada à organização dos serviços de uma biblioteca académica. O objetivo é centralizar a consulta do catálogo e as principais operações de gestão, oferecendo uma experiência simples para leitores e funcionários.
 
 **Funcionalidades principais**
 
-- 🔎 Catálogo público para pesquisar livros por título, autor, ISBN e categoria.
+- 🔎 Pesquisa de livros por título, autor, ISBN e categoria.
 - 📖 Consulta da disponibilidade dos exemplares.
 - 👥 Gestão de leitores e contas com diferentes perfis de acesso.
 - 🔄 Registo e acompanhamento de empréstimos, devoluções e renovações.
 - 📅 Reservas de livros e controlo da disponibilidade.
-- 🧾 Gestão de multas, com possibilidade de organizar o pagamento presencial.
+- 🧾 Organização de multas e pagamentos presenciais.
 - 🛡️ Controlo de permissões e registo de operações administrativas.
 
 **Tecnologias**
@@ -118,13 +119,45 @@ O objetivo é centralizar a consulta do catálogo e as principais operações de
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 
 </div>
 
 <a href="https://github.com/Lcramarante/UniBiblioteca">📂 Explorar o UniBiblioteca no GitHub →</a>
 
-> Projeto em desenvolvimento. A utilização institucional requer validação de segurança, configuração do servidor e testes operacionais antes da utilização com dados reais.
+> Projeto em desenvolvimento. Antes de ser utilizado institucionalmente, deve passar por validação de segurança, configuração adequada do servidor e testes com dados de demonstração.
+
+---
+
+### 🏫 School Incident — Sistema de Gestão de Incidentes
+
+O **School Incident** é um projeto de aplicação web pensado para apoiar o registo e acompanhamento de incidentes num contexto escolar. A interface organiza as principais tarefas num fluxo claro, desde a autenticação até à consulta e gestão das ocorrências.
+
+**Funcionalidades presentes na aplicação**
+
+- 📝 Criação e consulta de incidentes.
+- 📊 Painel de controlo para acompanhar a atividade.
+- 🔍 Visualização da lista e dos detalhes de cada ocorrência.
+- 🧰 Gestão de equipamentos associados ao contexto escolar.
+- 👤 Área administrativa para gestão de utilizadores.
+- 🔐 Rotas protegidas para utilizadores autenticados e páginas reservadas a administradores.
+
+**Tecnologias identificadas no frontend**
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" alt="React Router"/>
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios"/>
+<img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square&logo=react&logoColor=white" alt="Recharts"/>
+
+</div>
+
+<a href="https://github.com/Lcramarante/School-incident">📂 Explorar o School Incident no GitHub →</a>
+
+> O repositório contém a estrutura do frontend. As funcionalidades que dependem de uma API ou base de dados devem ser confirmadas e testadas com o backend correspondente antes de uma utilização real.
+
+---
 
 ### 💰 Simulador de Vida Financeira em Python
 
@@ -142,19 +175,13 @@ Projeto de aplicação orientada à área clínica, que integra conhecimentos de
 
 **Gestão de Incidentes — ETGDH**
 
-Sistema para registo e acompanhamento de incidentes informáticos, organização de ocorrências, atribuição de tarefas e acompanhamento das reparações.
+Projeto académico para registo e acompanhamento de incidentes informáticos, organização de ocorrências e acompanhamento das reparações.
 
-**Tecnologias:** PHP, MySQL, JavaScript, HTML e CSS.
+<a href="https://github.com/Lcramarante/SIGI-ETGDH">📂 Ver repositório SIGI-ETGDH →</a>
 
 **BiblioDigital — ETGDH**
 
-Sistema de gestão de biblioteca escolar para consulta do catálogo, controlo de empréstimos e administração de livros e utilizadores.
-
-**Tecnologias:** PHP, MySQL, JavaScript, HTML e CSS.
-
-> Os projetos escolares e os respetivos detalhes devem corresponder às versões efetivamente desenvolvidas. Adiciona os links dos respetivos repositórios públicos quando estiverem disponíveis.
-
----
+Conceito de sistema de gestão de biblioteca escolar para consulta do catálogo, controlo de empréstimos e administração de livros e utilizadores.
 
 ## 📊 Estatísticas do GitHub
 
